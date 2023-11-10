@@ -1,6 +1,6 @@
 <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
     <rect width="48" height="48" rx="8.88889" fill="white"/>
-    <path d="M10.66 30H7.3L13.16 16.6H17.44L23.34 30H19.9L18.64 27.04H11.94L10.66 30ZM14.36 21.42L13.1 24.34H17.48L16.22 21.42L15.4 19.34H15.18L14.36 21.42ZM28.0398 30H25.0398V16.6H28.0398V21.92H35.0398V16.6H38.0398V30H35.0398V24.62H28.0398V30Z" fill="url(#paint0_linear_1545_39)"/>
+    <path d="M13.04 30H9.68L15.54 16.6H19.82L25.72 30H22.28L21.02 27.04H14.32L13.04 30ZM16.74 21.42L15.48 24.34H19.86L18.6 21.42L17.78 19.34H17.56L16.74 21.42ZM29.4398 30H26.4398V16.6H29.4398V21.92H36.4398V16.6H39.4398V30H36.4398V24.62H29.4398V30Z" fill="url(#paint0_linear_1545_39)"/>
     <defs>
         <linearGradient id="paint0_linear_1545_39" x1="8" y1="35.5" x2="38.0109" y2="10.5484" gradientUnits="userSpaceOnUse">
             <stop stop-color="#989FFF"/>

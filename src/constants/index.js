@@ -3,6 +3,7 @@ import {
     car,
     contact,
     instagram,
+    twitter1 as twitter,
     css,
     estate,
     express,

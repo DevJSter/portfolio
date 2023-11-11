@@ -26,9 +26,11 @@ import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
-
+import instagram from './instagram.svg'
+import twitter1 from './twitter1.svg'
 export {
     twitter,
+    twitter1,
     instagram,
     css,
     express,

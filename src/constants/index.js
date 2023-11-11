@@ -2,6 +2,7 @@ import { meta, shopify, starbucks, tesla } from "../assets/images";
 import {
     car,
     contact,
+    instagram,
     css,
     estate,
     express,

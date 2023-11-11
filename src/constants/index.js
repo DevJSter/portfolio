@@ -180,6 +180,11 @@ export const socialLinks = [
         name: 'LinkedIn',
         iconUrl: linkedin,
         link: 'https://www.linkedin.com/in/devtshubham/',
+    },
+    {
+        name: 'Twitter',
+        iconUrl: twitter,
+        link: 'https://www.twitter.com/devtshubham/',
     }
 ];
 

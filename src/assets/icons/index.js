@@ -28,7 +28,6 @@ import soundon from './soundon.png'
 import soundoff from './soundoff.png'
 import instagram from './instagram.svg'
 export {
-    twitter,
     instagram,
     css,
     express,

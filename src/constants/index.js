@@ -167,9 +167,9 @@ export const experiences = [
 
 export const socialLinks = [
     {
-        name: 'Instagram',
-        iconUrl: instagram,
-        link: 'https://www.instagram.com/subtle._.one/',
+        name: 'contact',
+        iconUrl: contact,
+        link: '/contact',
     },
     {
         name: 'GitHub',

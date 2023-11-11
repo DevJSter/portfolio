@@ -7,6 +7,7 @@ import { soundoff, soundon } from "../assets/icons";
 import { Bird, Island, Plane, Sky } from "../models";
 
 const Home = () => {
+  
   const audioRef = useRef(new Audio(damodar));
   audioRef.current.volume = 0.8;
   audioRef.current.loop = true;
@@ -59,7 +60,7 @@ const Home = () => {
 
   return (
     <section className='w-full h-screen relative'>
-      <div className='absolute top-28 left-0 right-0 z-10 flex items-center justify-center'>
+      <div className='absolute top-28 left-0 right-0 z-50 flex items-center justify-center'>
         {currentStage && <HomeInfo currentStage={currentStage} />}
       </div>
 
@@ -109,7 +110,7 @@ const Home = () => {
           src={!isPlayingMusic ? soundoff : soundon}
           alt='jukebox'
           onClick={() => setIsPlayingMusic(!isPlayingMusic)}
-          className='w-10 h-10 cursor-pointer object-contain'
+          className='w-11 h-11 cursor-pointer object-contain'
         />
       </div>
     </section>
